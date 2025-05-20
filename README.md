@@ -7,6 +7,10 @@ This project analyzes historical sales data from a retail company using SQL and 
 ---
 
 ## 📦 Project Structure
+├── sales.csv # Sample sales data
+├── create_sales_table.sql # SQL script to create the Sales table
+├── sales_analysis.ipynb # Jupyter notebook with data analysis and ML model
+├── README.md # Project documentation
 
 
 ---
